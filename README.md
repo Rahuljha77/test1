@@ -1,3 +1,7 @@
+# The Project is in the master branch
+# Start by installing all the dependencies using
+### `npm i`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
