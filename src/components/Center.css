@@ -1,0 +1,16 @@
+.center {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  flex: 1;
+  overflow: hidden;
+  background-color: white; 
+  border: 1px solid black; 
+}
+
+
+
+
+
+
+
